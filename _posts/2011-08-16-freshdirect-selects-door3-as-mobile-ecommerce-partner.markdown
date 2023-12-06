@@ -1,4 +1,5 @@
 ---
+layout: post
 title: FreshDirect Selects DOOR3 as Mobile eCommerce Partner
 date: 2011-08-16 14:25:00 Z
 tags:
