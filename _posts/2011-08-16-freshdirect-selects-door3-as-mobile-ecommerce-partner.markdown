@@ -1,7 +1,9 @@
 ---
-layout: post
 title: FreshDirect Selects DOOR3 as Mobile eCommerce Partner
-category: misc
+date: 2011-08-16 00:00:00 Z
+categories:
+- misc
+layout: post
 ---
 
 Original Release Date: July 12, 2010 — FreshDirect announced the selection of DOOR3 as their long-term mobile eCommerce strategy and delivery partner.
