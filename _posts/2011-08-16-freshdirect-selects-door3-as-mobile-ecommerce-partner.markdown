@@ -1,31 +1,7 @@
 ---
 layout: post
 title: FreshDirect Selects DOOR3 as Mobile eCommerce Partner
-date: 2011-08-16 14:25:00 Z
-tags:
-- Mobile
-- eCommerce
-meta-description: FreshDirect announced DOOR3 as their mobile eCommerce strategy to
-  extend and enhance the customer experience and increase sales across emerging mobile
-  platforms
-featured-image: "/uploads/blue-texture-background.png"
-blog-main-image: "/uploads/blue-texture-background-small.png"
-author: Ellen Cowan
-is-hastags: true
-is-sidebar-inner-cta-section: true
-sidebar-inner-cta-section:
-  heading: Need more help?
-  repeater:
-  - heading: Talk to a UX expert
-    subheading: Discover the Power of Seamless Interactions
-    link-name: Contact a UX expert
-    link-url: https://www.door3.com/contact-us/
-  - heading: Use our price calculator
-    subheading: Let us help you enhance your user experience
-    link-name: Use our price calculator
-    link-url: https://forms.leadgenapp.io/685e3ed6-9e0d-48f9-b5f3-294ac0e047c5
-is-form-section-visible: true
-layout: single-post-v-2.1
+category: misc
 ---
 
 Original Release Date: July 12, 2010 — FreshDirect announced the selection of DOOR3 as their long-term mobile eCommerce strategy and delivery partner. “Mobile is a great opportunity to serve our customers more effectively. DOOR3’s expertise in eCommerce strategy, systems integration, and mobile technologies like iPhone, Android and Blackberry makes them an ideal partner,” said Dean Marano, FreshDirect’s Chief Information Officer.  “We’ve worked with DOOR3 successfully in the past and we look forward to working with them again on this exciting new program.”
